@@ -18,4 +18,5 @@
   * example-raw.stl `[✔✔✔] [example printer] [firmware on most recent print] [desc: example file]`
   * example-was_fixed.stl `[???]`
 ## The list
-* bottle-funnel_fixed.stl `[✔??] [Prusa MK3S]`
+* bottle-funnel_fixed.stl `[✔✔~] [Prusa MK3S]`
+* bottle-funnel-v2_fixed.stl `[✔??] [Prusa MK3S] [desc: fixed some issues with original]`
