@@ -20,3 +20,4 @@
 ## The list
 * bottle-funnel_fixed.stl `[✔✔~] [Prusa MK3S]`
 * bottle-funnel-v2_fixed.stl `[✔??] [Prusa MK3S] [desc: fixed some issues with original]`
+* bottle-funnel-v2_fixed.stl `[✔??] [Prusa MK3S] [desc: An experiment with refraction/reflection index]`

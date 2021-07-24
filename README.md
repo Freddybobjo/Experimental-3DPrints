@@ -3,7 +3,7 @@ A bunch of experimental 3D Prints
 
 ## LICENSE - COPYRIGHT
 Some experimental 3D Print files<br>
-Copyright (C) 2021  [@Codedevlo](https://github.com/Codedevlo)
+Copyright (C) 2021  [@Codedevlo](https://github.com/Codedevlo) [@wadersgeek](https://gitlab.com/wadersgeek)
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
